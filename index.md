@@ -5,11 +5,10 @@ layout: page
 ---
 
 
-<img
-  src="{{ '/assets/movie4.gif' | relative_url }}"
-  alt="NLPercep preview"
-  style="display:block; width:100%; height:auto;"
-/>
+<div class="wide-gif">
+  <img src="{{ '/assets/movie4.gif' | relative_url }}" alt="NLPercep preview">
+</div>
+
 
 
 Social perception plays a central role in how language is interpreted: readers form impressions about intent, politeness, credibility, identity, and more from subtle linguistic cues. However, most NLP systems model such phenomena using surface-level proxies, often failing to capture how humans actually perceive language across contexts.
