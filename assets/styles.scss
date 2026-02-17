@@ -111,11 +111,7 @@ $ui-4: #4d4bcd;
     background-repeat: no-repeat;
 }
 
-$reading-width: 760px;
 
-@media (min-width: 992px) {
-  .container { max-width: $reading-width !important; }
-}
 
 $gif-width: 1100px;
 
