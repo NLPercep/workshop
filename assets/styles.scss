@@ -111,13 +111,13 @@ $ui-4: #4d4bcd;
     background-repeat: no-repeat;
 }
 
-$reading-width: 1000px;
+$reading-width: 1200px;
 
 @media (min-width: 992px) {
   .container { max-width: $reading-width !important; }
 }
 
-$gif-width: 1300px;
+$gif-width: 1400px;
 
 .wide-gif { width: 100%; max-width: $gif-width; margin: 0 auto 24px; }
 
@@ -140,7 +140,9 @@ body.page-committee .card {
 
 .card-img-top {
   width: 100%;
-  height: 180px;        /* try 160–200px */
+  height: 200px;        /* try 160–200px */
   object-fit: cover;
   object-position: center;
 }
+
+.committee-grid .card-body { font-size: 0.9rem; }
