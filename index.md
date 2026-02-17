@@ -10,7 +10,7 @@ layout: page
 </div>
 
 
-###
+---
 
 #### The First Workshop on Centering Social Perception in Natural Language Processing
 

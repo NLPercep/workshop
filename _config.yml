@@ -13,7 +13,7 @@ github_username:  jekyll
 footer_copyright: 'Copyright NLPercep. Powered by <a href="https://github.com/smcclab/academic-org-theme">Jekyll</a> theme'
 
 logo: /assets/nlpercep.png
-favicon: /assets/fav.png
+favicon: /assets/fav_light.png
 logo_dark: /assets/nlpercep_dark.png
 
 plugins:
