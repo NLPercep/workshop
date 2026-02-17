@@ -27,7 +27,7 @@ We invite the following types of submissions:
 
 ## Format
 
-All papers must follow the **AAAI two-column, camera-ready style**, for **US Letter (8.5" x 11")** paper (available templates: *AAAI 2025 Author Kit on Overleaf* or *AAAI 2025 Author Kit.zip* [Word and LaTeX]). The review process will be **double-blind**. Please anonymize your papers by removing identifying information such as author names, affiliations, and funding details.
+All papers must follow the **AAAI two-column, camera-ready style**, for **US Letter (8.5" x 11")** paper (available templates: [*AAAI 2025 Author Kit on Overleaf*](http://overleaf.com/latex/templates/aaai-authorkit25-anonymoussubmission/qxnjxxbvrjqr) or [*AAAI 2025 Author Kit.zip* [Word and LaTeX])](https://aaai.org/authorkit25/). The review process will be **double-blind**. Please anonymize your papers by removing identifying information such as author names, affiliations, and funding details.
 
 ---
 
