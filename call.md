@@ -39,3 +39,6 @@ All papers must follow the **AAAI two-column, camera-ready style**, for **US Let
 - **NLPercep Workshop day:** May 26, 2026  
 
 **Note:** All deadlines are **11:59 pm UTC -12h (anywhere on earth)**.
+
+
+## [OpenReview Submission](https://openreview.net/group?id=ICWSM.org/2026/Workshop/NLPercep)
