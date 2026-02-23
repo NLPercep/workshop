@@ -23,14 +23,14 @@ plugins:
 navigation_header:
 - title: Home
   url: /
+- title: Focus
+  url: /Focus/
 - title: Call
   url: /call/
 - title: Committee
   url: /committee/
 #- title: Program
 #  url: /program/
-#- title: Location
-#  url: /location/
 - title: Contact
   url: /contact/
 
