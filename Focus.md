@@ -29,7 +29,7 @@ The workshop places particular emphasis on the role of social perception in the 
 
 We welcome theoretical, empirical, and computational contributions that address questions including (but not limited to):
 
-- **Identity and demographic perception from text**: What do humans infer about a speaker/author or a group from language (e.g., age, gender expression, regional background, social class, educational and cultural background) and from machine-generated texts (naturalness, trust, etc)
+- **Identity and demographic perception from text**: What do humans infer about a speaker/author or a group from language (e.g., age, gender expression, regional background, social class, educational and cultural background) and what do human perceive from machine-generated texts (naturalness, trust, etc)?
 
 - **LLMs as perceivers and social participants**: Do LLM judgments align with human perception, where do they diverge, and what does that mean for real-world use—especially as LLMs increasingly mediate communication and shape emerging norms?
 
