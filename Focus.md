@@ -11,7 +11,7 @@ These perceptions shape everyday interaction—how people respond, communicate, 
 
 Yet most NLP systems model these phenomena using surface-level proxies (e.g., fixed labels for “toxicity,” “politeness,” or “demographic information”), often treating socially grounded judgments as fixed properties of text. In doing so, they can collapse the distinction between what a text is intended to convey and how it is perceived in context. This limits our ability to build systems that reflect how humans interpret language across contexts and communities, and makes it difficult to understand what today’s large language models (LLMs) capture when they appear to make judgments about tone, credibility, harm, or social meaning.
 
-**NLPercep’26** aims to bridge this gap by bringing together researchers from NLP, computational social science, sociolinguistics, psychology, and related fields to study how language is *perceived*—and not just what it encodes. 
+**NLPercep’26** aims to bridge this gap by bringing together researchers from NLP, computational social science, sociolinguistics, psychology, and related fields to study **how language is *perceived***—and not just what it encodes. 
 
 The workshop places particular emphasis on the role of social perception in the era of large language models (LLMs) and evolving communication norms, and is grounded in three partially connected lines of work:
 
