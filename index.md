@@ -13,7 +13,7 @@ layout: page
 ---
 
 ### The First Workshop on Centering Social Perception in Natural Language Processing
-
+Understading language through the lens of social perception
 
 
 
