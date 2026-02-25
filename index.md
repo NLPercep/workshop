@@ -15,5 +15,15 @@ layout: page
 
 ### Understading language through the lens of social perception
 
+---
+
+#### Sponsors
+
+We thank our sponsor **Stuttgart Research Focus "Interchange Forum for Reflecting on Intelligent Systems"** for funding this workshop.
+
+
+
+
+
 
 
