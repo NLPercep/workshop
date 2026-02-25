@@ -22,7 +22,9 @@ layout: page
 We thank our sponsor **Stuttgart Research Focus "Interchange Forum for Reflecting on Intelligent Systems"** for funding this workshop.
 
 
-
+<div class="sponsor-logo">
+  <img src="{{ '/assets/iris-logo.png' | relative_url }}" alt="Sponsor logo" />
+</div>
 
 
 
