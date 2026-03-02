@@ -19,9 +19,9 @@ NLPercep is the First Workshop on aiming to understand social perception through
 
 ---
 
-#### Sponsored
+#### Supported by
 
-We thank our sponsor **Stuttgart Research Focus "Interchange Forum for Reflecting on Intelligent Systems"** partially for funding this workshop.
+**Stuttgart Research Focus "Interchange Forum for Reflecting on Intelligent Systems"**
 
 
 <div class="sponsor-logo">
