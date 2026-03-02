@@ -13,13 +13,15 @@ layout: page
 
 
 
-### Understading language through the lens of social perception
+### About NLPercep
+
+NLPercep is the First Workshop on aiming to understand social perception through languages. It focuses on how people form impressions of others from language and how NLP systems can model, measure, or capture those perception effects.
 
 ---
 
-#### Sponsors
+#### Sponsored
 
-We thank our sponsor **Stuttgart Research Focus "Interchange Forum for Reflecting on Intelligent Systems"** for funding this workshop.
+We thank our sponsor **Stuttgart Research Focus "Interchange Forum for Reflecting on Intelligent Systems"** partially for funding this workshop.
 
 
 <div class="sponsor-logo">
