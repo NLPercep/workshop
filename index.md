@@ -13,7 +13,7 @@ layout: page
 
 
 
-### About NLPercep
+### About 
 
 NLPercep is the First Workshop on aiming to understand social perception through languages. It focuses on how people form impressions of others from language and how NLP systems can model, measure, or capture those perception effects.
 
