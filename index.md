@@ -21,7 +21,6 @@ NLPercep is the First Workshop on aiming to understand social perception through
 
 #### Supported by
 
-**Stuttgart Research Focus "Interchange Forum for Reflecting on Intelligent Systems"**
 
 
 
