@@ -54,6 +54,7 @@ The workshop proceedings will be published at https://workshop-proceedings.icwsm
 ## Important Dates
 
 - **Paper submission deadline:** ~~March 10, 2026~~ March 17, 2026  
+- **Reviewer deadline:** April 10, 2026
 - **Notification of acceptance:** April 15, 2026  
 - **Camera ready:** May 15, 2026  
 - **NLPercep Workshop day:** May 26, 2026  
