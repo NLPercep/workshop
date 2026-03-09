@@ -32,6 +32,6 @@ NLPercep is the First Workshop on aiming to understand social perception through
   <img src="{{ '/assets/Picture 4.png' | relative_url }}" alt="Logo 5" />
   <img src="{{ '/assets/Picture 5.png' | relative_url }}" alt="Logo 6" />
   <img src="{{ '/assets/Picture 6.png' | relative_url }}" alt="Logo 7" />
-  <img src="{{ '/assets/Picture 7.pngg' | relative_url }}" alt="Logo 8" />
+  <img src="{{ '/assets/Picture 7.png' | relative_url }}" alt="Logo 8" />
 </div>
 
