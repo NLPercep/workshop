@@ -24,10 +24,15 @@ NLPercep is the First Workshop on aiming to understand social perception through
 **Stuttgart Research Focus "Interchange Forum for Reflecting on Intelligent Systems"**
 
 
-<div class="sponsor-logo">
-  <img src="{{ '/assets/iris-logo.png' | relative_url }}" alt="Sponsor logo" />
+
+<div class="sponsor-logos">
+  <img src="{{ '/assets/iris-logo.png' | relative_url }}" alt="IRIS logo" />
+  <img src="{{ '/assets/Picutre 1.png' | relative_url }}" alt="Logo 2" />
+  <img src="{{ '/assets/Picutre 2.png' | relative_url }}" alt="Logo 3" />
+  <img src="{{ '/assets/Picutre 3.png' | relative_url }}" alt="Logo 4" />
+  <img src="{{ '/assets/Picutre 4.png' | relative_url }}" alt="Logo 5" />
+  <img src="{{ '/assets/Picutre 5.png' | relative_url }}" alt="Logo 6" />
+  <img src="{{ '/assets/Picutre 6.png' | relative_url }}" alt="Logo 7" />
+  <img src="{{ '/assets/Picutre 7.pngg' | relative_url }}" alt="Logo 8" />
 </div>
-
-
-
 

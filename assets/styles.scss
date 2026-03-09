@@ -142,3 +142,18 @@ article .wide-gif img { width: 100% !important; max-width: none !important; heig
 
 html[data-bs-theme="dark"] .navbar-brand .logo-dark { display: inline-block !important; }
 html[data-bs-theme="dark"] .navbar-brand .logo-light { display: none !important; }
+
+
+.sponsor-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.sponsor-logos img {
+  height: 80px;
+  width: auto;
+  object-fit: contain;
+}
