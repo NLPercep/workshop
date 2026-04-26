@@ -27,6 +27,8 @@ navigation_header:
   url: /Focus/
 - title: Call
   url: /call/
+- title: Schedule
+  url: /schedule/
 - title: Committee
   url: /committee/
 #- title: Program
