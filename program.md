@@ -4,70 +4,21 @@ title: Program
 permalink: /program/
 ---
 
-{% assign sorted_sessions = site.data.sessions | sort: "date" %}
+### Schedule
 
-<script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js'></script>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    let sessionsData = {{ sorted_sessions | jsonify }};
-    let firstEventDate = sessionsData[0]["start"]
-    <!-- TODO: loop over the array and set url property to the session page. -->
-    console.log(sessionsData)
-    for (i in sessionsData) {
-        let sessionId = sessionsData[i]["id"]
-        sessionsData[i]["url"] = `{{ site.baseurl }}/sessions/${sessionId}.html`
-    }
-    var calendarEl = document.getElementById('calendar');
-    var calendar = new FullCalendar.Calendar(calendarEl, {
-        themeSystem: 'bootstrap5',
-        timeZone: 'AEST',
-        initialView: 'timeGridWeek',
-        events: sessionsData,
-        initialDate: firstEventDate,
-    });
-    calendar.render();
-
-    <!-- experiments with the session data... -->
-    console.log(sessionsData)
-    var event = calendar.getEventById('research1')
-    console.log(event)
-
-    var start = event.start // a property (a Date object)
-    console.log(start.toISOString()) // "2018-09-01T00:00:00.000Z"
-  });
-</script>
-<div id='calendar'></div>
-
-<h2>Sessions</h2>
+- 09:00 - 09:15 Opening Remarks
+- 09:15 - 10:15 Keynote Talk
+- 10:15 - 10:30 Coffee Break
+- 10:30 - 11:30 Networking Session
+- 11:30 - 12:50 Poster Session
+- 12:50 - 13:00 Closing Remarks
 
 
-<div class="row row-cols-1 row-cols-md-2 g-4">
-  {% for session in sorted_sessions %}
-    {% capture session_url %}{{ session.id | datapage_url: "sessions" | relative_url }}{% endcapture %}
-    <div class="col">
-      <div class="card h-100">
-        {% if session.image_url %}
-          <img src="{{ session.image_url | relative_url }}" class="card-img-top" alt="{{ session.title }}">
-        {% endif %}
-        <div class="card-body">
-          <h5 class="card-title">
-            <a href="{{ session_url }}" class="text-decoration-none text-dark">{{ session.title }}</a>
-          </h5>
-          <h6 class="card-subtitle mb-2 text-muted">{{ session.type | capitalize }} Session</h6>
-          <p class="card-text">
-            <strong>Date:</strong> {{ session.date | date: "%A, %B %d, %Y" }}<br>
-            <strong>Time:</strong> {{ session.date | date: "%I:%M %p" }} AEST<br>
-            <strong>Location:</strong> {{ session.location }}<br>
-            <strong>Chair:</strong> {{ session.chair }}
-          </p>
-        </div>
-        <div class="card-footer">
-          <a href="{{ session_url }}" class="btn btn-outline-secondary">Details</a>
-          {% if session.video_url %}
-            <a href="{{ session.video_url }}" class="btn btn-outline-secondary" target="_blank">Video</a>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-  {% endfor %}
-</div>
+
+#### Invited Speaker
+
+[Douglas R. Guilbeault](https://www.gsb.stanford.edu/faculty-research/faculty/douglas-r-guilbeault)
+
+**The Simple Categorical Aspects of Human Social Learning (and the Limits of LLM Replications)**
+
+Abstract: A persistent puzzle throughout the cognitive and social sciences is how people manage to learn social conventions from the sparse and noisy behavioral data of diverse actors, without explicit instruction. Here, we show that the dominant theories of social learning perform poorly at capturing how individuals learn conventions in coordination experiments that task them with matching their behaviors while interacting in social networks. Across experiments, participants’ choices systematically deviate from both imitation and optimization. Instead, they follow a categorical, two-stage learning process: they behave probabilistically until they acquire enough information about each other to trigger a mental threshold and then their choices stabilize. We effectively estimate this threshold using the tolerance principle (TP), a parameter-free equation developed to model how children learn rules in language. We show that threshold-based agents produce social learning that is more accurate than imitating and optimizing agents, while also providing a better model of how a critical mass of dissenters can overturn conventions. The superior performance of our model holds when comparing against a variety of optimization approaches, including Bayesian inference. By replicating this task with interacting LLM agents, we show that these agents exhibit decision functions that are highly statistically optimized, failing to recover the two-stage learning dynamics exhibited by human participants. These findings offer compelling evidence that a simple, mathematical threshold underlies human learning, from grammatical rules to behavioral conventions, and that prevailing LLMs are limited in capturing this underlying categorical mechanism.
