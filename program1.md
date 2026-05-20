@@ -1,7 +1,7 @@
 ---
 layout: page  
-title: Program
-permalink: /program/
+title: Program1
+permalink: /program1/
 ---
 
 {% assign sorted_sessions = site.data.sessions | sort: "date" %}
