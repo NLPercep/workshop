@@ -19,7 +19,7 @@ permalink: /program/
 
 ##### [Douglas R. Guilbeault](https://www.gsb.stanford.edu/faculty-research/faculty/douglas-r-guilbeault)
 
-<div style="text-align: center;">
+<div style="text-align: left;">
   <img 
     src="{{ '/assets/doug.avif' | relative_url }}" 
     alt="Douglas R. Guilbeault"
