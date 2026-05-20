@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 
-### Schedule
+#### Schedule
 
 - 09:00 - 09:15 Opening Remarks
 - 09:15 - 10:15 Keynote Talk
@@ -15,9 +15,16 @@ permalink: /program/
 
 
 
-#### Invited Speaker
+#### Keynote Speaker
 
-[Douglas R. Guilbeault](https://www.gsb.stanford.edu/faculty-research/faculty/douglas-r-guilbeault)
+##### [Douglas R. Guilbeault](https://www.gsb.stanford.edu/faculty-research/faculty/douglas-r-guilbeault)
+
+<div class="wide-gif">
+  <img src="{{ '/assets/doug.avif' | relative_url }}" alt="NLPercep preview">
+</div>
+
+Assistant Professor of Organizational Behavior
+Stanford University’s Graduate School of Business
 
 **The Simple Categorical Aspects of Human Social Learning (and the Limits of LLM Replications)**
 
