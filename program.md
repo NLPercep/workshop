@@ -19,8 +19,12 @@ permalink: /program/
 
 ##### [Douglas R. Guilbeault](https://www.gsb.stanford.edu/faculty-research/faculty/douglas-r-guilbeault)
 
-<div class="wide-gif">
-  <img src="{{ '/assets/doug.avif' | relative_url }}" alt="NLPercep preview">
+<div style="text-align: center;">
+  <img 
+    src="{{ '/assets/doug.avif' | relative_url }}" 
+    alt="Douglas R. Guilbeault"
+    style="max-width: 320px; width: 100%; height: auto; border-radius: 8px;"
+  >
 </div>
 
 Assistant Professor of Organizational Behavior
