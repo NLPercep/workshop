@@ -40,11 +40,11 @@ Abstract: A persistent puzzle throughout the cognitive and social sciences is ho
 
 
 
-- [Human Trust and Perception of LLM-Generated Content]({{ '/program/posters/poster-1.pdf/' | relative_url }})
+- [Human Trust and Perception of LLM-Generated Content]({{ '/program/posters/poster-1/' | relative_url }})
 
 - [LinguisticRedline: Uncovering Racial Bias in LLM
-Perceptions of Urban Crime Risk]({{ '/program/posters/poster-2.pdf/' | relative_url }})
+Perceptions of Urban Crime Risk]({{ '/program/posters/poster-2/' | relative_url }})
 
-- [Reading the Surface: Social Perception under Expressive Compression in AI-Assisted Communication]({{ '/program/posters/poster-3.pdf/' | relative_url }})
+- [Reading the Surface: Social Perception under Expressive Compression in AI-Assisted Communication]({{ '/program/posters/poster-3/' | relative_url }})
 
-- [Social Perception as Theory of Mind: Evidence from Annotator Disagreement in Sexism Detection]({{ '/program/posters/poster-4.pdf/' | relative_url }})
+- [Social Perception as Theory of Mind: Evidence from Annotator Disagreement in Sexism Detection]({{ '/program/posters/poster-4/' | relative_url }})
