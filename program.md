@@ -50,4 +50,3 @@ Perceptions of Urban Crime Risk]({{ '/program/posters/poster-2/' | relative_url 
 - [Social Perception as Theory of Mind: Evidence from Annotator Disagreement in Sexism Detection]({{ '/program/posters/poster-4/' | relative_url }})
 
 
-haha
